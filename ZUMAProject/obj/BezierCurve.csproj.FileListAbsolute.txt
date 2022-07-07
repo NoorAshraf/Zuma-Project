@@ -1,0 +1,2 @@
+D:\Personal_1\Courses_1\Graphics\Lectures\Subject_5\2) BezierCurve\obj\Debug\BezierCurve.exe
+D:\Personal_1\Courses_1\Graphics\Lectures\Subject_5\2) BezierCurve\obj\Debug\BezierCurve.pdb

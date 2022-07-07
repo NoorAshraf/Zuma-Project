@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BezierCurve">
+</Property><Property Name="Solution File" Value="D:\Personal_1\Courses_1\Graphics\Lectures\Subject_5\2) BezierCurve\BezierCurve.sln">
+</Property><Property Name="User Options File" Value="D:\Personal_1\Courses_1\Graphics\Lectures\Subject_5\2) BezierCurve\BezierCurve.suo">
+</Property><Property Name="Date" Value="Wednesday, May 11, 2011">
+</Property><Property Name="Time" Value="15:04 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BezierCurve.sln" Description="File successfully backed up as D:\Personal_1\Courses_1\Graphics\Lectures\Subject_5\2) BezierCurve\Backup\BezierCurve.sln">
+</Event><Event ErrorLevel="0" Project="" Source="BezierCurve.suo" Description="File successfully backed up as D:\Personal_1\Courses_1\Graphics\Lectures\Subject_5\2) BezierCurve\Backup\BezierCurve.suo">
+</Event><Event ErrorLevel="0" Project="BezierCurve" Source="BezierCurve.csproj" Description="Project file successfully backed up as D:\Personal_1\Courses_1\Graphics\Lectures\Subject_5\2) BezierCurve\Backup\BezierCurve.csproj">
+</Event><Event ErrorLevel="0" Project="BezierCurve" Source="BezierCurve.csproj.user" Description="Project user file successfully backed up as D:\Personal_1\Courses_1\Graphics\Lectures\Subject_5\2) BezierCurve\Backup\BezierCurve.csproj.user">
+</Event><Event ErrorLevel="0" Project="BezierCurve" Source="AssemblyInfo.cs" Description="File successfully backed up as D:\Personal_1\Courses_1\Graphics\Lectures\Subject_5\2) BezierCurve\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BezierCurve" Source="BezierCurve.cs" Description="File successfully backed up as D:\Personal_1\Courses_1\Graphics\Lectures\Subject_5\2) BezierCurve\Backup\BezierCurve.cs">
+</Event><Event ErrorLevel="0" Project="BezierCurve" Source="Form1.cs" Description="File successfully backed up as D:\Personal_1\Courses_1\Graphics\Lectures\Subject_5\2) BezierCurve\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="BezierCurve" Source="App.ico" Description="File successfully backed up as D:\Personal_1\Courses_1\Graphics\Lectures\Subject_5\2) BezierCurve\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="BezierCurve" Source="Form1.resx" Description="File successfully backed up as D:\Personal_1\Courses_1\Graphics\Lectures\Subject_5\2) BezierCurve\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="BezierCurve" Source="BezierCurve.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BezierCurve" Source="BezierCurve.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BezierCurve.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BezierCurve.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BezierCurve" Source="BezierCurve.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

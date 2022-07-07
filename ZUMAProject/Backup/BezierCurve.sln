@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BezierCurve", "BezierCurve.csproj", "{035CF169-22AB-4D1A-BCC2-DB4F645253C1}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{035CF169-22AB-4D1A-BCC2-DB4F645253C1}.Debug.ActiveCfg = Debug|.NET
+		{035CF169-22AB-4D1A-BCC2-DB4F645253C1}.Debug.Build.0 = Debug|.NET
+		{035CF169-22AB-4D1A-BCC2-DB4F645253C1}.Release.ActiveCfg = Release|.NET
+		{035CF169-22AB-4D1A-BCC2-DB4F645253C1}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

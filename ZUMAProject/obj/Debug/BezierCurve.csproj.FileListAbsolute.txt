@@ -1,0 +1,66 @@
+D:\Personal_1\Courses_1\Graphics\Lectures_2D\Subject_5\2) BezierCurve\obj\Debug\BezierCurve.exe
+D:\Personal_1\Courses_1\Graphics\Lectures_2D\Subject_5\2) BezierCurve\obj\Debug\BezierCurve.pdb
+D:\Personal_1\Courses_1\Graphics\Lectures_2D\Subject_5 (Curves)\2) BezierCurve\obj\Debug\BezierCurve.exe
+D:\Personal_1\Courses_1\Graphics\Lectures_2D\Subject_5 (Curves)\2) BezierCurve\obj\Debug\BezierCurve.pdb
+D:\Courses_1\Graphics\Lectures_2D\Subject_5 (Curves)\2) BezierCurve\obj\Debug\BezierCurve.exe
+D:\Courses_1\Graphics\Lectures_2D\Subject_5 (Curves)\2) BezierCurve\obj\Debug\BezierCurve.pdb
+D:\Courses_1\Graphics\Lectures_2D\Subject_5 (Curves)\2) BezierCurve\obj\Debug\ResolveAssemblyReference.cache
+D:\Courses_1\Graphics\Lectures_2D\Subject_5 (Curves)\2) BezierCurve\obj\Debug\BezierCurve.Form1.resources
+D:\Courses_1\Graphics\Lectures_2D\Subject_5 (Curves)\2) BezierCurve\obj\Debug\ResGen.read.1.tlog
+D:\Courses_1\Graphics\Lectures_2D\Subject_5 (Curves)\2) BezierCurve\obj\Debug\ResGen.write.1.tlog
+D:\Courses_1\Graphics\Lectures_2D\Subject_5 (Curves)\2) BezierCurve\bin\Debug\BezierCurve.exe
+D:\Courses_1\Graphics\Lectures_2D\Subject_5 (Curves)\2) BezierCurve\bin\Debug\BezierCurve.pdb
+D:\Courses_1\Graphics\Lectures_2D\Lec_4 (Curve)\Student\2) BezierCurve\obj\Debug\ResolveAssemblyReference.cache
+D:\Courses_1\Graphics\Lectures_2D\Lec_4 (Curve)\Student\2) BezierCurve\obj\Debug\BezierCurve.Form1.resources
+D:\Courses_1\Graphics\Lectures_2D\Lec_4 (Curve)\Student\2) BezierCurve\obj\Debug\ResGen.read.1.tlog
+D:\Courses_1\Graphics\Lectures_2D\Lec_4 (Curve)\Student\2) BezierCurve\obj\Debug\ResGen.write.1.tlog
+D:\Courses_1\Graphics\Lectures_2D\Lec_4 (Curve)\Student\2) BezierCurve\bin\Debug\BezierCurve.exe.config
+D:\Courses_1\Graphics\Lectures_2D\Lec_4 (Curve)\Student\2) BezierCurve\obj\Debug\GenerateResource.read.1.tlog
+D:\Courses_1\Graphics\Lectures_2D\Lec_4 (Curve)\Student\2) BezierCurve\obj\Debug\GenerateResource.write.1.tlog
+D:\Courses_1\Graphics\Lectures_2D\Lec_4 (Curve)\Student\2) BezierCurve\bin\Debug\BezierCurve.exe
+D:\Courses_1\Graphics\Lectures_2D\Lec_4 (Curve)\Student\2) BezierCurve\bin\Debug\BezierCurve.pdb
+D:\Courses_1\Graphics\Lectures_2D\Lec_4 (Curve)\Student\2) BezierCurve\obj\Debug\BezierCurve.exe
+D:\Courses_1\Graphics\Lectures_2D\Lec_4 (Curve)\Student\2) BezierCurve\obj\Debug\BezierCurve.pdb
+D:\Personal\Courses\Graphics\Lectures_2D\Lec_4 (Curve)\Student\2) BezierCurve\bin\Debug\BezierCurve.exe.config
+D:\Personal\Courses\Graphics\Lectures_2D\Lec_4 (Curve)\Student\2) BezierCurve\obj\Debug\BezierCurve.exe
+D:\Personal\Courses\Graphics\Lectures_2D\Lec_4 (Curve)\Student\2) BezierCurve\obj\Debug\BezierCurve.pdb
+D:\Personal\Courses\Graphics\Lectures_2D\Lec_4 (Curve)\Student\2) BezierCurve\bin\Debug\BezierCurve.exe
+D:\Personal\Courses\Graphics\Lectures_2D\Lec_4 (Curve)\Student\2) BezierCurve\bin\Debug\BezierCurve.pdb
+D:\Personal\Courses\Graphics\Lectures_2D\Lec_4 (Curve)\Student\2) BezierCurve\obj\Debug\BezierCurve.Form1.resources
+D:\Personal\Courses\Graphics\Lectures_2D\Lec_4 (Curve)\Student\2) BezierCurve\obj\Debug\BezierCurve.csprojResolveAssemblyReference.cache
+D:\Personal\Courses\Graphics\Lectures_2D\Lec_4 (Curve)\Student\2) BezierCurve\obj\Debug\BezierCurve.csproj.GenerateResource.Cache
+F:\Graphics_1\2) BezierCurve\bin\Debug\BezierCurve.exe.config
+F:\Graphics_1\2) BezierCurve\obj\Debug\BezierCurve.exe
+F:\Graphics_1\2) BezierCurve\obj\Debug\BezierCurve.pdb
+H:\Graphics_1\2) BezierCurve\bin\Debug\BezierCurve.exe.config
+H:\Graphics_1\2) BezierCurve\obj\Debug\BezierCurve.exe
+H:\Graphics_1\2) BezierCurve\obj\Debug\BezierCurve.pdb
+H:\Graphics_1\2) BezierCurve\bin\Debug\BezierCurve.exe
+H:\Graphics_1\2) BezierCurve\bin\Debug\BezierCurve.pdb
+H:\Graphics_1\2) BezierCurve\obj\Debug\BezierCurve.csprojResolveAssemblyReference.cache
+H:\Graphics_1\2) BezierCurve\obj\Debug\BezierCurve.Form1.resources
+H:\Graphics_1\2) BezierCurve\obj\Debug\BezierCurve.csproj.GenerateResource.Cache
+E:\Sam\Graphics_1\Me\Lec_3\bin\Debug\BezierCurve.exe.config
+E:\Sam\Graphics_1\Me\Lec_3\obj\Debug\BezierCurve.exe
+E:\Sam\Graphics_1\Me\Lec_3\obj\Debug\BezierCurve.pdb
+E:\Sam\Graphics_1\Me\Lec_3\bin\Debug\BezierCurve.exe
+E:\Sam\Graphics_1\Me\Lec_3\obj\Debug\BezierCurve.Form1.resources
+E:\Sam\Graphics_1\Me\Lec_3\bin\Debug\BezierCurve.pdb
+E:\Sam\Graphics_1\Me\Lec_3\obj\Debug\BezierCurve.csprojResolveAssemblyReference.cache
+E:\Sam\Graphics_1\Me\Lec_3\obj\Debug\BezierCurve.csproj.GenerateResource.Cache
+C:\Users\20100\Desktop\ZUMA\bin\Debug\BezierCurve.exe.config
+C:\Users\20100\Desktop\ZUMA\obj\Debug\BezierCurve.exe
+C:\Users\20100\Desktop\ZUMA\obj\Debug\BezierCurve.pdb
+C:\Users\20100\Desktop\ZUMA\bin\Debug\BezierCurve.exe
+C:\Users\20100\Desktop\ZUMA\bin\Debug\BezierCurve.pdb
+C:\Users\20100\Desktop\ZUMA\obj\Debug\BezierCurve.csprojResolveAssemblyReference.cache
+C:\Users\20100\Desktop\ZUMA\obj\Debug\BezierCurve.csproj.GenerateResource.Cache
+C:\Users\20100\Desktop\ZUMA\obj\Debug\BezierCurve.Bullet.resources
+C:\Users\20100\Desktop\ZUMALevel\bin\Debug\BezierCurve.exe.config
+C:\Users\20100\Desktop\ZUMALevel\obj\Debug\BezierCurve.exe
+C:\Users\20100\Desktop\ZUMALevel\obj\Debug\BezierCurve.pdb
+C:\Users\20100\Desktop\ZUMALevel\bin\Debug\BezierCurve.exe
+C:\Users\20100\Desktop\ZUMALevel\bin\Debug\BezierCurve.pdb
+C:\Users\20100\Desktop\ZUMALevel\obj\Debug\BezierCurve.csprojResolveAssemblyReference.cache
+C:\Users\20100\Desktop\ZUMALevel\obj\Debug\BezierCurve.Bullet.resources
+C:\Users\20100\Desktop\ZUMALevel\obj\Debug\BezierCurve.csproj.GenerateResource.Cache
